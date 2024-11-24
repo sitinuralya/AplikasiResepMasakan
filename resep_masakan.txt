@@ -1,0 +1,4 @@
+Menu: Nasi goreng | Jenis: digoreng | Bahan: nasi putih, bawang putih cincang, telur, kecap manis, saus tiram, garam, merica, dan minyak goreng
+Menu: Sup sayur | Jenis: direbut | Bahan: wortel, kol, buncis, bawang putih, garam, merica, gula, dan air secukupnya
+Menu: Pepes tahu | Jenis: dikukus | Bahan: tahu putih, daun bawang, bawang putih, cabe merah, garam, dan merica
+Menu: Tahu cabe garam | Jenis: digoreng | Bahan: tahu, tepung mazeina, cabe rawit, garam, gula, bawang putih, daun bawang.
